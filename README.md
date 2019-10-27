@@ -1,6 +1,7 @@
 ![image](https://github.com/Lexie88rus/steel_defect_detection/raw/master/assets/cover_large.png)
 # Steel defect detection
 Repository containing the materials for [Kaggle Steel Defect Detection competition](https://www.kaggle.com/c/severstal-steel-defect-detection).
+The description of our whole team's [__36th place__ solution](https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114269#latest-658776) on Kaggle
 
 ## Repository Contents
 1. [Notebook containing the EDA](https://github.com/Lexie88rus/steel_defect_detection/blob/master/steel-defect-detection-EDA.ipynb)
