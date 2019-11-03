@@ -25,6 +25,10 @@ What did not work for me:
    
    * :x: Lovasz loss
    * :x: weighted sampling
+   
+## Prediction Example
+Image with the prediction example:
+![image](https://github.com/Lexie88rus/steel_defect_detection/raw/master/assets/example.png)
 
 ## Additional Links
 1. Link to [EDA notebook on Kaggle](https://www.kaggle.com/aleksandradeis/steel-defect-detection-eda).
